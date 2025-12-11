@@ -107,9 +107,13 @@ From your terminal:
 ```bash
 cd AIML_Daily_Practice/dayX
 python3 program_name.py
+```
+
+
 👨‍💻 Author
 Syed Mohammed Asad
 Actively learning Python, ML, and AI — building consistency day by day.
 This repo is a live reflection of my growth and discipline.
 ⭐ If you're viewing this repo — feel free to follow!
 More projects coming soon on the journey toward AI/ML mastery.
+
